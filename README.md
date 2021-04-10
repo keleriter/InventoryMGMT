@@ -2,7 +2,7 @@
 An inventory manager application to track orders from various suppliers built on OpenJDK 11.0.8 and OpenJFX 11 platform with SQLite as a datastore. The application has prefilled data for testing.
 
 ## Running the application ##
-To run the application, please use an IDE (prefereabbly NetBeans) to **clean and build the project before running** it.
+To run the application, please use an IDE (prefereably NetBeans) to **clean and build the project before running** it.
 Additionally, *ensure that OpenJDK 11 and OpenJFX 11 are installed in your machine*.
 
 ## Logging in ##
